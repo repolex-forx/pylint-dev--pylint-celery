@@ -1,0 +1,11 @@
+{
+  "org": "pylint-dev",
+  "repo": "pylint-celery",
+  "versions": [
+    {
+      "commit": "4edf639f291b677270e792f5c045c3cc2ac3a664",
+      "tag": "",
+      "parsed_at": "2026-10-15T09:52:24.295626+00:00"
+    }
+  ]
+}
